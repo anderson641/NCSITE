@@ -1,0 +1,8 @@
+# NuggetCraft SMP
+
+> 
+
+## Pages
+
+- [NuggetCraft SMP](kcserver.cc)
+- [Rules](kcserver.cc/rules): Review the rules and guidelines that govern the website. Understand requirements and policies.
