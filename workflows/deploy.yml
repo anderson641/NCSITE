@@ -27,7 +27,7 @@ jobs:
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: './public/' # Put your subfolder path here
+          path: './public/index.html' # Put your subfolder path here
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
